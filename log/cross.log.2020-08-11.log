@@ -1,0 +1,33 @@
+2020-08-11 17:32:56 [jzq.server.netty.NettyServer]-[INFO] [main] (NettyServer.java:72) ->long connection started success port:7777 
+2020-08-11 17:33:02 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:32) ->/127.0.0.1:49449:客户端与服务端连接开始... 
+2020-08-11 17:33:05 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:106) ->服务端接收到设备：null 的数据：42	41	20	46	46	20	41	44	20	41	44	20	32	33	20	31	32	20	33	31	20	32	34	20	 
+2020-08-11 17:33:05 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:114) ->服务端回复设备：null 数据：104 66 65 32 32 32 32 32 32 32 32 32 32 32 13 10  
+2020-08-11 17:33:55 [jzq.server.netty.NettyServer]-[INFO] [main] (NettyServer.java:72) ->long connection started success port:7777 
+2020-08-11 17:33:58 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:32) ->/127.0.0.1:49555:客户端与服务端连接开始... 
+2020-08-11 17:33:59 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:106) ->服务端接收到设备：null 的数据：42	41	20	46	46	20	41	44	20	41	44	20	32	33	20	31	32	20	33	31	20	32	34	20	 
+2020-08-11 17:33:59 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:114) ->服务端回复设备：null 数据：104 66 65 32 32 32 32 32 32 32 32 32 32 32 13 10  
+2020-08-11 17:34:28 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:106) ->服务端接收到设备：null 的数据：41	41	20	46	46	20	41	44	20	41	44	20	32	33	 
+2020-08-11 17:34:28 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:114) ->服务端回复设备：null 数据：104 65 65 32 32 32 32 32 32 32 32 32 32 32 13 10  
+2020-08-11 17:34:52 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:106) ->服务端接收到设备：null 的数据：41	41	20	46	46	20	41	44	20	41	44	20	32	33	 
+2020-08-11 17:34:52 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:114) ->服务端回复设备：null 数据：104 65 65 32 32 32 32 32 32 32 32 32 32 32 13 10  
+2020-08-11 17:42:19 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:106) ->服务端接收到设备：null 的数据：41	41	20	46	46	20	41	44	20	41	44	20	32	33	 
+2020-08-11 17:42:19 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:114) ->服务端回复设备：null 数据：104 65 65 32 32 32 32 32 32 32 32 32 32 32 13 10  
+2020-08-11 17:42:36 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:106) ->服务端接收到设备：null 的数据：41	41	20	46	46	20	41	44	20	41	44	20	32	33	 
+2020-08-11 17:42:36 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:114) ->服务端回复设备：null 数据：104 65 65 32 32 32 32 32 32 32 32 32 32 32 13 10  
+2020-08-11 17:43:26 [jzq.server.netty.NettyServer]-[INFO] [main] (NettyServer.java:72) ->long connection started success port:7777 
+2020-08-11 17:43:33 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:32) ->/127.0.0.1:50000:客户端与服务端连接开始... 
+2020-08-11 17:43:34 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:106) ->服务端接收到设备：null 的数据：41	41	20	46	46	20	41	44	20	41	44	20	32	33	 
+2020-08-11 17:43:34 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:114) ->服务端回复设备：null 数据：104 65 65 32 32 32 32 32 32 32 32 32 32 32 13 10  
+2020-08-11 17:43:40 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:106) ->服务端接收到设备：null 的数据：41	41	20	46	46	20	41	44	20	41	44	20	32	33	 
+2020-08-11 17:43:40 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:114) ->服务端回复设备：null 数据：104 65 65 32 32 32 32 32 32 32 32 32 32 32 13 10  
+2020-08-11 17:43:50 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:106) ->服务端接收到设备：null 的数据：41	41	20	46	46	20	41	44	20	41	44	20	32	33	 
+2020-08-11 17:43:50 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:114) ->服务端回复设备：null 数据：104 65 65 32 32 32 32 32 32 32 32 32 32 32 13 10  
+2020-08-11 17:45:29 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:106) ->服务端接收到设备：null 的数据：41	41	20	46	46	20	41	44	20	41	44	20	32	33	 
+2020-08-11 17:45:29 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:114) ->服务端回复设备：null 数据：104 65 65 32 32 32 32 32 32 32 32 32 32 32 13 10  
+2020-08-11 17:45:36 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:106) ->服务端接收到设备：null 的数据：41	41	20	46	46	20	41	44	20	41	44	20	32	33	 
+2020-08-11 17:45:36 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:114) ->服务端回复设备：null 数据：104 65 65 32 32 32 32 32 32 32 32 32 32 32 13 10  
+2020-08-11 17:46:44 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:106) ->服务端接收到设备：null 的数据：41	41	20	46	46	20	41	44	20	41	44	20	32	33	 
+2020-08-11 17:46:44 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:114) ->服务端回复设备：null 数据：104 65 65 32 32 32 32 32 32 32 32 32 32 32 13 10  
+2020-08-11 17:54:09 [jzq.server.netty.NettyServer]-[INFO] [main] (NettyServer.java:72) ->long connection started success port:7777 
+2020-08-11 17:54:14 [jzq.server.netty.ServerHandler]-[INFO] [nioEventLoopGroup-3-1] (ServerHandler.java:32) ->/127.0.0.1:50511:客户端与服务端连接开始... 
+2020-08-11 23:22:07 [jzq.server.netty.NettyServer]-[INFO] [main] (NettyServer.java:72) ->long connection started success port:7777 
